@@ -1,0 +1,9 @@
+host=45.64.96.158
+port=443
+pudp=7300
+user=fastssh.com-pradana
+pass=123456
+sni=youtube.com
+vmess://eyJhZGQiOiJzZzQudjItcmF5LmNvbSIsImFpZCI6IjMyIiwiaWQiOiJhYTcyNjEzZC0xODhjLTRkN2ItYmU0Ni02MDExZDc1YTVmN2EiLCJob3N0IjoiYXN1cmFuc2kucnVhbmdndXJ1LmNvbSIsIm5ldCI6IndzIiwicGF0aCI6Ii9mYXN0c3NoL2dyYXRpc2Fuc2Vray82MWIyZDhiNDNlNGJjLyIsInBvcnQiOiI0NDMiLCJwcyI6InNnNC52Mi1yYXkuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+trojan://f06bc5f0-590e-11ec-a02f-1239d0255272@id5-trojan.bonds.id:443
+mode=2
